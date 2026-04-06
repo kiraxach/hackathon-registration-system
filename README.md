@@ -1,26 +1,6 @@
 # 🌩️ HACKATHON 2026 REGISTRATION SYSTEM
 ## Complete Deployment Guide - Step-by-Step for Everyone
 
----
-
-## 📋 TABLE OF CONTENTS
-
-1. [Introduction](#introduction)
-2. [System Requirements](#system-requirements)
-3. [Windows Setup (Step-by-Step)](#windows-setup-step-by-step)
-4. [Mac Setup (Step-by-Step)](#mac-setup-step-by-step)
-5. [Linux Setup (Step-by-Step)](#linux-setup-step-by-step)
-6. [Project File Structure](#project-file-structure)
-7. [Complete Backend Code Explanation](#complete-backend-code-explanation)
-8. [Complete Frontend Code Explanation](#complete-frontend-code-explanation)
-9. [Database Setup & Testing](#database-setup--testing)
-10. [Running the Application](#running-the-application)
-11. [Troubleshooting Common Errors](#troubleshooting-common-errors)
-12. [Verifying Everything Works](#verifying-everything-works)
-13. [Project Walkthrough](#project-walkthrough)
-14. [Future Improvements & Deployment](#future-improvements--deployment)
-
----
 
 # 📌 INTRODUCTION
 
